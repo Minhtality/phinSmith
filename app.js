@@ -11,6 +11,10 @@ app.get('/', (req, res) => {
     res.render("pages/index")
 })
 
+app.get('/menu', (req, res) => {
+    res.render("pages/menu")
+})
+
 
 
 

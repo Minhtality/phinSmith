@@ -1,3 +1,9 @@
 .parallax-container.moped{
     height: 70vh;
   }
+
+nav {
+  height: 45px;
+  line-height: 3rem;
+} 
+
