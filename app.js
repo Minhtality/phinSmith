@@ -15,6 +15,19 @@ app.get('/menu', (req, res) => {
     res.render("pages/menu")
 })
 
+app.get('/discover', (req, res) => {
+    res.render("pages/discover")
+})
+
+app.get('/aboutus', (req, res) => {
+    res.render("pages/aboutUs")
+})
+
+app.get('/*', (req, res) => {
+    res.render("pages/index")
+})
+
+
 
 
 
