@@ -1,7 +1,6 @@
 {
   "name": "mylanding",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "engines": {
     "node": "10.16.0",
@@ -15,6 +14,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "Minh Tran",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minhtality/phinSmith.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Minhtality/phinSmith/issues"
+  },
+  "homepage": "https://github.com/Minhtality/phinSmith#readme",
+  "description": ""
 }
